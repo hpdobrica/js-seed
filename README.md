@@ -1,0 +1,2 @@
+# js-seed
+Base project
